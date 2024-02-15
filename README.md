@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
     * A [graph-based flowchart](https://github.com/crice009/learner-profile-flowchart/tree/new_main) to help with learning
-    * MakeHaven's Cardsystem, which is not public yet; but my circuit board designs are [available](https://github.com/crice009/toolauth-hardware).
+    * [MakeHaven](https://github.com/makehaven)'s Cardsystem, which is not public yet; but my circuit board designs are [available](https://github.com/crice009/toolauth-hardware).
     * Keeping an eye on my [MagicMirror](https://magicmirror.builders/) Module about ocean tides: [MMM-NOAATides](https://github.com/crice009/MMM-NOAATides)
 - 🌱 I’m currently learning ...
     * [Go](https://go.dev/) for backend things
